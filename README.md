@@ -12,6 +12,6 @@ Hi there! I'm a **Computer Science and Business Systems Student** passionate abo
 
 ### 🔗 Let's Connect!
 - 🔗 LinkedIn: [Sachin Deepak](https://www.linkedin.com/in/sachindeepak)  
-- 🎥 YouTube: [Compiler Crew](https://www.youtube.com/@compilercrew)  
+- 🎥 YouTube: [Compiler Crew](https://www.youtube.com/@thecompilercrew)  
 
 📫 Feel free to connect with me and check out my projects! Let's code the future together. ✨
