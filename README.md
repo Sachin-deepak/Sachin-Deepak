@@ -1,4 +1,4 @@
-Hi there! I'm a **Computer Science and Business Systems Student** passionate about coding, solving problems, and creating innovative solutions. 🚀  
+Hi there! I'm a **Computer Science and Business Systems Student** passionate about coding, solving problems, and creating innovative solutions!🚀  
 
 ### 🌟 A Glimpse Into My Journey
 - 🔧 **Competitive Programmer**: I love diving into algorithmic challenges and optimizing solutions.  
