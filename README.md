@@ -8,7 +8,7 @@ Hi there! I'm a **Computer Science and Business Systems Student** passionate abo
 ### 💼 My Interests
 - 🌐 Web Development
 - 🧠 Problem Solving and Algorithm Design  
-- 🎨 Creative Projects with Dynamic Designs  
+- 🎨 Creative Projects with Dynamic Designs
 
 ### 🔗 Let's Connect!
 - 🔗 LinkedIn: [Sachin Deepak](https://www.linkedin.com/in/sachindeepak)  
